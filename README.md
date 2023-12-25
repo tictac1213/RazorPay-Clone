@@ -1,2 +1,2 @@
 # RazorPay-Clone
-I am making Razorpay Website clone using Html, Tailwind CSS and JS 
+I am building Razorpay Website clone using Html, Tailwind CSS and JS 
